@@ -10,9 +10,7 @@ I'm currently expanding my skills in data science, machine learning, and artific
 
 ## About Me
 
-I'm a Data Analyst interested in using data to solve business problems and turn complex datasets into clear, actionable insights.
-
-My current focus is on strengthening my skills in Python, SQL, PostgreSQL, Power BI, statistics, and machine learning.
+I’m a Data Analyst passionate about turning complex data into clear, actionable insights that help solve real-world business problems.
 
 I enjoy building practical projects involving business analytics, customer analytics, and real-world datasets.
 
