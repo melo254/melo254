@@ -1,4 +1,4 @@
-# Hi, I'm Melvin 
+# Hello, I'm Melvin 
 
 ### Data Analyst | Data Science & AI
 
